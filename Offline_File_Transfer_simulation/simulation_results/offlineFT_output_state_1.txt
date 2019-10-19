@@ -1,0 +1,638 @@
+00:00:00:000
+State for model input_reader is next time: 00:00:00:000
+State for model input_reader1 is next time: 00:00:00:000
+State for model sender1 is packetNum: 0 & totalPacketNum: 0
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 0 & transmitting: 0 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 0 & transmittingToReceiver: 0 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 0 & transmitting: 0 0
+State for model subnetA2 is index: 0 & transmitting: 0 0
+State for model subnetB1 is index: 0 & transmitting: 0 0
+State for model subnetB2 is index: 0 & transmitting: 0 0
+00:00:00:000
+State for model input_reader is next time: 00:00:10:000
+State for model input_reader1 is next time: 00:00:10:000
+State for model sender1 is packetNum: 0 & totalPacketNum: 0
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 0 & transmitting: 0 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 0 & transmittingToReceiver: 0 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 0 & transmitting: 0 0
+State for model subnetA2 is index: 0 & transmitting: 0 0
+State for model subnetB1 is index: 0 & transmitting: 0 0
+State for model subnetB2 is index: 0 & transmitting: 0 0
+00:00:10:000
+State for model input_reader is next time: 00:01:20:000
+State for model input_reader1 is next time: 00:01:20:000
+State for model sender1 is packetNum: 1 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 0 & transmitting: 0 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 1 & transmittingToReceiver: 0 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 0 & transmitting: 0 0
+State for model subnetA2 is index: 0 & transmitting: 0 0
+State for model subnetB1 is index: 0 & transmitting: 0 0
+State for model subnetB2 is index: 0 & transmitting: 0 0
+00:00:20:000
+State for model input_reader is next time: 00:01:20:000
+State for model input_reader1 is next time: 00:01:20:000
+State for model sender1 is packetNum: 1 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 0 & transmitting: 0 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 1 & transmittingToReceiver: 0 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 0 & transmitting: 0 0
+State for model subnetA2 is index: 0 & transmitting: 0 0
+State for model subnetB1 is index: 0 & transmitting: 0 0
+State for model subnetB2 is index: 0 & transmitting: 0 0
+00:00:30:000
+State for model input_reader is next time: 00:01:20:000
+State for model input_reader1 is next time: 00:01:20:000
+State for model sender1 is packetNum: 1 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 0 & transmitting: 0 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 1 & transmittingToReceiver: 0 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 1 & transmitting: 1 0
+State for model subnetA2 is index: 0 & transmitting: 0 0
+State for model subnetB1 is index: 0 & transmitting: 0 0
+State for model subnetB2 is index: 0 & transmitting: 0 0
+00:00:33:000
+State for model input_reader is next time: 00:01:20:000
+State for model input_reader1 is next time: 00:01:20:000
+State for model sender1 is packetNum: 1 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 1 & transmitting: 1 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 1 & transmittingToReceiver: 0 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 1 & transmitting: 1 0
+State for model subnetA2 is index: 0 & transmitting: 0 0
+State for model subnetB1 is index: 0 & transmitting: 0 0
+State for model subnetB2 is index: 0 & transmitting: 0 0
+00:00:36:000
+State for model input_reader is next time: 00:01:20:000
+State for model input_reader1 is next time: 00:01:20:000
+State for model sender1 is packetNum: 1 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 1 & transmitting: 1 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 2 & transmittingToReceiver: 0 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 1 & transmitting: 1 0
+State for model subnetA2 is index: 0 & transmitting: 0 0
+State for model subnetB1 is index: 0 & transmitting: 0 0
+State for model subnetB2 is index: 0 & transmitting: 0 0
+00:01:30:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 1 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 1 & transmitting: 1 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 3 & transmittingToReceiver: 1 0 & ackFromReceiver: 0 0 & requestIn: 1
+State for model subnetA1 is index: 1 & transmitting: 1 0
+State for model subnetA2 is index: 0 & transmitting: 0 0
+State for model subnetB1 is index: 0 & transmitting: 0 0
+State for model subnetB2 is index: 0 & transmitting: 0 0
+00:01:33:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 1 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 1 & transmitting: 1 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 3 & transmittingToReceiver: 1 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 1 & transmitting: 1 0
+State for model subnetA2 is index: 0 & transmitting: 0 0
+State for model subnetB1 is index: 0 & transmitting: 0 0
+State for model subnetB2 is index: 1 & transmitting: 1 0
+00:01:36:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 1 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 1 & transmitting: 1 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 3 & transmittingToReceiver: 1 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 1 & transmitting: 1 0
+State for model subnetA2 is index: 0 & transmitting: 0 0
+State for model subnetB1 is index: 0 & transmitting: 0 0
+State for model subnetB2 is index: 1 & transmitting: 1 0
+00:01:46:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 1 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 1 & transmitting: 1 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 3 & transmittingToReceiver: 1 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 1 & transmitting: 1 0
+State for model subnetA2 is index: 0 & transmitting: 0 0
+State for model subnetB1 is index: 1 & transmitting: 0 0
+State for model subnetB2 is index: 1 & transmitting: 1 0
+00:01:49:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 1 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 1 & transmitting: 1 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 4 & transmittingToReceiver: 1 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 1 & transmitting: 1 0
+State for model subnetA2 is index: 0 & transmitting: 0 0
+State for model subnetB1 is index: 1 & transmitting: 0 0
+State for model subnetB2 is index: 1 & transmitting: 1 0
+00:01:52:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 1 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 2 & transmitting: 1 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 4 & transmittingToReceiver: 1 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 1 & transmitting: 1 0
+State for model subnetA2 is index: 0 & transmitting: 0 0
+State for model subnetB1 is index: 1 & transmitting: 0 0
+State for model subnetB2 is index: 1 & transmitting: 1 0
+00:01:55:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 1 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 2 & transmitting: 1 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 4 & transmittingToReceiver: 1 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 1 & transmitting: 1 0
+State for model subnetA2 is index: 1 & transmitting: 0 0
+State for model subnetB1 is index: 1 & transmitting: 0 0
+State for model subnetB2 is index: 1 & transmitting: 1 0
+00:01:58:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 1 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 2 & transmitting: 1 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 4 & transmittingToReceiver: 1 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 1 & transmitting: 1 0
+State for model subnetA2 is index: 1 & transmitting: 0 0
+State for model subnetB1 is index: 1 & transmitting: 0 0
+State for model subnetB2 is index: 1 & transmitting: 1 0
+00:01:58:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 2 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 2 & transmitting: 1 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 4 & transmittingToReceiver: 1 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 1 & transmitting: 1 0
+State for model subnetA2 is index: 1 & transmitting: 0 0
+State for model subnetB1 is index: 1 & transmitting: 0 0
+State for model subnetB2 is index: 1 & transmitting: 1 0
+00:02:00:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 2 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 2 & transmitting: 1 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 5 & transmittingToReceiver: 1 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 1 & transmitting: 1 0
+State for model subnetA2 is index: 1 & transmitting: 0 0
+State for model subnetB1 is index: 1 & transmitting: 0 0
+State for model subnetB2 is index: 1 & transmitting: 1 0
+00:02:08:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 2 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 2 & transmitting: 1 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 5 & transmittingToReceiver: 1 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 2 & transmitting: 2 1
+State for model subnetA2 is index: 1 & transmitting: 0 0
+State for model subnetB1 is index: 1 & transmitting: 0 0
+State for model subnetB2 is index: 1 & transmitting: 1 0
+00:02:11:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 2 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 3 & transmitting: 2 1 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 5 & transmittingToReceiver: 1 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 2 & transmitting: 2 1
+State for model subnetA2 is index: 1 & transmitting: 0 0
+State for model subnetB1 is index: 1 & transmitting: 0 0
+State for model subnetB2 is index: 1 & transmitting: 1 0
+00:02:14:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 2 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 3 & transmitting: 2 1 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 6 & transmittingToReceiver: 1 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 2 & transmitting: 2 1
+State for model subnetA2 is index: 1 & transmitting: 0 0
+State for model subnetB1 is index: 1 & transmitting: 0 0
+State for model subnetB2 is index: 1 & transmitting: 1 0
+00:02:30:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 2 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 3 & transmitting: 2 1 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 7 & transmittingToReceiver: 2 1 & ackFromReceiver: 0 0 & requestIn: 5
+State for model subnetA1 is index: 2 & transmitting: 2 1
+State for model subnetA2 is index: 1 & transmitting: 0 0
+State for model subnetB1 is index: 1 & transmitting: 0 0
+State for model subnetB2 is index: 1 & transmitting: 1 0
+00:02:33:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 2 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 3 & transmitting: 2 1 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 7 & transmittingToReceiver: 2 1 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 2 & transmitting: 2 1
+State for model subnetA2 is index: 1 & transmitting: 0 0
+State for model subnetB1 is index: 1 & transmitting: 0 0
+State for model subnetB2 is index: 2 & transmitting: 2 1
+00:02:36:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 2 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 3 & transmitting: 2 1 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 7 & transmittingToReceiver: 2 1 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 2 & transmitting: 2 1
+State for model subnetA2 is index: 1 & transmitting: 0 0
+State for model subnetB1 is index: 1 & transmitting: 0 0
+State for model subnetB2 is index: 2 & transmitting: 2 1
+00:02:46:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 2 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 3 & transmitting: 2 1 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 7 & transmittingToReceiver: 2 1 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 2 & transmitting: 2 1
+State for model subnetA2 is index: 1 & transmitting: 0 0
+State for model subnetB1 is index: 2 & transmitting: 0 1
+State for model subnetB2 is index: 2 & transmitting: 2 1
+00:02:49:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 2 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 3 & transmitting: 2 1 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 8 & transmittingToReceiver: 2 1 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 2 & transmitting: 2 1
+State for model subnetA2 is index: 1 & transmitting: 0 0
+State for model subnetB1 is index: 2 & transmitting: 0 1
+State for model subnetB2 is index: 2 & transmitting: 2 1
+00:02:52:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 2 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 4 & transmitting: 2 1 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 8 & transmittingToReceiver: 2 1 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 2 & transmitting: 2 1
+State for model subnetA2 is index: 1 & transmitting: 0 0
+State for model subnetB1 is index: 2 & transmitting: 0 1
+State for model subnetB2 is index: 2 & transmitting: 2 1
+00:02:55:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 2 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 4 & transmitting: 2 1 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 8 & transmittingToReceiver: 2 1 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 2 & transmitting: 2 1
+State for model subnetA2 is index: 2 & transmitting: 0 1
+State for model subnetB1 is index: 2 & transmitting: 0 1
+State for model subnetB2 is index: 2 & transmitting: 2 1
+00:02:58:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 2 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 4 & transmitting: 2 1 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 8 & transmittingToReceiver: 2 1 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 2 & transmitting: 2 1
+State for model subnetA2 is index: 2 & transmitting: 0 1
+State for model subnetB1 is index: 2 & transmitting: 0 1
+State for model subnetB2 is index: 2 & transmitting: 2 1
+00:02:58:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 3 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 4 & transmitting: 2 1 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 8 & transmittingToReceiver: 2 1 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 2 & transmitting: 2 1
+State for model subnetA2 is index: 2 & transmitting: 0 1
+State for model subnetB1 is index: 2 & transmitting: 0 1
+State for model subnetB2 is index: 2 & transmitting: 2 1
+00:03:00:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 3 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 4 & transmitting: 2 1 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 9 & transmittingToReceiver: 2 1 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 2 & transmitting: 2 1
+State for model subnetA2 is index: 2 & transmitting: 0 1
+State for model subnetB1 is index: 2 & transmitting: 0 1
+State for model subnetB2 is index: 2 & transmitting: 2 1
+00:03:08:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 3 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 4 & transmitting: 2 1 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 9 & transmittingToReceiver: 2 1 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 3 & transmitting: 3 0
+State for model subnetA2 is index: 2 & transmitting: 0 1
+State for model subnetB1 is index: 2 & transmitting: 0 1
+State for model subnetB2 is index: 2 & transmitting: 2 1
+00:03:11:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 3 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 5 & transmitting: 3 0 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 9 & transmittingToReceiver: 2 1 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 3 & transmitting: 3 0
+State for model subnetA2 is index: 2 & transmitting: 0 1
+State for model subnetB1 is index: 2 & transmitting: 0 1
+State for model subnetB2 is index: 2 & transmitting: 2 1
+00:03:14:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 3 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 5 & transmitting: 3 0 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 10 & transmittingToReceiver: 2 1 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 3 & transmitting: 3 0
+State for model subnetA2 is index: 2 & transmitting: 0 1
+State for model subnetB1 is index: 2 & transmitting: 0 1
+State for model subnetB2 is index: 2 & transmitting: 2 1
+00:03:30:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 3 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 5 & transmitting: 3 0 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 11 & transmittingToReceiver: 3 0 & ackFromReceiver: 0 1 & requestIn: 1
+State for model subnetA1 is index: 3 & transmitting: 3 0
+State for model subnetA2 is index: 2 & transmitting: 0 1
+State for model subnetB1 is index: 2 & transmitting: 0 1
+State for model subnetB2 is index: 2 & transmitting: 2 1
+00:03:33:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 3 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 5 & transmitting: 3 0 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 11 & transmittingToReceiver: 3 0 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 3 & transmitting: 3 0
+State for model subnetA2 is index: 2 & transmitting: 0 1
+State for model subnetB1 is index: 2 & transmitting: 0 1
+State for model subnetB2 is index: 3 & transmitting: 3 0
+00:03:36:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 3 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 5 & transmitting: 3 0 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 11 & transmittingToReceiver: 3 0 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 3 & transmitting: 3 0
+State for model subnetA2 is index: 2 & transmitting: 0 1
+State for model subnetB1 is index: 2 & transmitting: 0 1
+State for model subnetB2 is index: 3 & transmitting: 3 0
+00:03:46:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 3 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 5 & transmitting: 3 0 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 11 & transmittingToReceiver: 3 0 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 3 & transmitting: 3 0
+State for model subnetA2 is index: 2 & transmitting: 0 1
+State for model subnetB1 is index: 3 & transmitting: 0 0
+State for model subnetB2 is index: 3 & transmitting: 3 0
+00:03:49:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 3 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 5 & transmitting: 3 0 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 12 & transmittingToReceiver: 3 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 3 & transmitting: 3 0
+State for model subnetA2 is index: 2 & transmitting: 0 1
+State for model subnetB1 is index: 3 & transmitting: 0 0
+State for model subnetB2 is index: 3 & transmitting: 3 0
+00:03:52:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 3 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 6 & transmitting: 3 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 12 & transmittingToReceiver: 3 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 3 & transmitting: 3 0
+State for model subnetA2 is index: 2 & transmitting: 0 1
+State for model subnetB1 is index: 3 & transmitting: 0 0
+State for model subnetB2 is index: 3 & transmitting: 3 0
+00:03:55:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 3 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 6 & transmitting: 3 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 12 & transmittingToReceiver: 3 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 3 & transmitting: 3 0
+State for model subnetA2 is index: 3 & transmitting: 0 0
+State for model subnetB1 is index: 3 & transmitting: 0 0
+State for model subnetB2 is index: 3 & transmitting: 3 0
+00:03:58:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 3 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 6 & transmitting: 3 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 12 & transmittingToReceiver: 3 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 3 & transmitting: 3 0
+State for model subnetA2 is index: 3 & transmitting: 0 0
+State for model subnetB1 is index: 3 & transmitting: 0 0
+State for model subnetB2 is index: 3 & transmitting: 3 0
+00:03:58:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:00:30:000
+State for model sender1 is packetNum: 4 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 6 & transmitting: 3 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 12 & transmittingToReceiver: 3 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 3 & transmitting: 3 0
+State for model subnetA2 is index: 3 & transmitting: 0 0
+State for model subnetB1 is index: 3 & transmitting: 0 0
+State for model subnetB2 is index: 3 & transmitting: 3 0
+00:04:00:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:36:30:000
+State for model sender1 is packetNum: 4 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 6 & transmitting: 3 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 13 & transmittingToReceiver: 3 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 3 & transmitting: 3 0
+State for model subnetA2 is index: 3 & transmitting: 0 0
+State for model subnetB1 is index: 3 & transmitting: 0 0
+State for model subnetB2 is index: 3 & transmitting: 3 0
+00:04:08:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:36:30:000
+State for model sender1 is packetNum: 4 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 6 & transmitting: 3 0 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 13 & transmittingToReceiver: 3 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 4 & transmitting: 4 1
+State for model subnetA2 is index: 3 & transmitting: 0 0
+State for model subnetB1 is index: 3 & transmitting: 0 0
+State for model subnetB2 is index: 3 & transmitting: 3 0
+00:04:11:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:36:30:000
+State for model sender1 is packetNum: 4 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 7 & transmitting: 4 1 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 13 & transmittingToReceiver: 3 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 4 & transmitting: 4 1
+State for model subnetA2 is index: 3 & transmitting: 0 0
+State for model subnetB1 is index: 3 & transmitting: 0 0
+State for model subnetB2 is index: 3 & transmitting: 3 0
+00:04:14:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: 00:36:30:000
+State for model sender1 is packetNum: 4 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 7 & transmitting: 4 1 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 14 & transmittingToReceiver: 3 0 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 4 & transmitting: 4 1
+State for model subnetA2 is index: 3 & transmitting: 0 0
+State for model subnetB1 is index: 3 & transmitting: 0 0
+State for model subnetB2 is index: 3 & transmitting: 3 0
+00:40:30:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: inf
+State for model sender1 is packetNum: 4 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 7 & transmitting: 4 1 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 15 & transmittingToReceiver: 4 1 & ackFromReceiver: 0 0 & requestIn: 1
+State for model subnetA1 is index: 4 & transmitting: 4 1
+State for model subnetA2 is index: 3 & transmitting: 0 0
+State for model subnetB1 is index: 3 & transmitting: 0 0
+State for model subnetB2 is index: 3 & transmitting: 3 0
+00:40:33:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: inf
+State for model sender1 is packetNum: 4 & totalPacketNum: 5
+State for model receiver1 is ackNum: 0
+State for model FileServerReceiver1 is  index: 7 & transmitting: 4 1 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 15 & transmittingToReceiver: 4 1 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 4 & transmitting: 4 1
+State for model subnetA2 is index: 3 & transmitting: 0 0
+State for model subnetB1 is index: 3 & transmitting: 0 0
+State for model subnetB2 is index: 4 & transmitting: 4 1
+00:40:36:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: inf
+State for model sender1 is packetNum: 4 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 7 & transmitting: 4 1 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 15 & transmittingToReceiver: 4 1 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 4 & transmitting: 4 1
+State for model subnetA2 is index: 3 & transmitting: 0 0
+State for model subnetB1 is index: 3 & transmitting: 0 0
+State for model subnetB2 is index: 4 & transmitting: 4 1
+00:40:46:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: inf
+State for model sender1 is packetNum: 4 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 7 & transmitting: 4 1 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 15 & transmittingToReceiver: 4 1 & ackFromReceiver: 0 0 & requestIn: 0
+State for model subnetA1 is index: 4 & transmitting: 4 1
+State for model subnetA2 is index: 3 & transmitting: 0 0
+State for model subnetB1 is index: 4 & transmitting: 0 1
+State for model subnetB2 is index: 4 & transmitting: 4 1
+00:40:49:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: inf
+State for model sender1 is packetNum: 4 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 7 & transmitting: 4 1 & ackToSender: 0 0
+State for model FileServerSender1 is  index: 16 & transmittingToReceiver: 4 1 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 4 & transmitting: 4 1
+State for model subnetA2 is index: 3 & transmitting: 0 0
+State for model subnetB1 is index: 4 & transmitting: 0 1
+State for model subnetB2 is index: 4 & transmitting: 4 1
+00:40:52:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: inf
+State for model sender1 is packetNum: 4 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 8 & transmitting: 4 1 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 16 & transmittingToReceiver: 4 1 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 4 & transmitting: 4 1
+State for model subnetA2 is index: 3 & transmitting: 0 0
+State for model subnetB1 is index: 4 & transmitting: 0 1
+State for model subnetB2 is index: 4 & transmitting: 4 1
+00:40:55:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: inf
+State for model sender1 is packetNum: 4 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 8 & transmitting: 4 1 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 16 & transmittingToReceiver: 4 1 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 4 & transmitting: 4 1
+State for model subnetA2 is index: 4 & transmitting: 0 1
+State for model subnetB1 is index: 4 & transmitting: 0 1
+State for model subnetB2 is index: 4 & transmitting: 4 1
+00:40:58:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: inf
+State for model sender1 is packetNum: 4 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 8 & transmitting: 4 1 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 16 & transmittingToReceiver: 4 1 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 4 & transmitting: 4 1
+State for model subnetA2 is index: 4 & transmitting: 0 1
+State for model subnetB1 is index: 4 & transmitting: 0 1
+State for model subnetB2 is index: 4 & transmitting: 4 1
+00:40:58:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: inf
+State for model sender1 is packetNum: 5 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 8 & transmitting: 4 1 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 16 & transmittingToReceiver: 4 1 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 4 & transmitting: 4 1
+State for model subnetA2 is index: 4 & transmitting: 0 1
+State for model subnetB1 is index: 4 & transmitting: 0 1
+State for model subnetB2 is index: 4 & transmitting: 4 1
+00:41:08:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: inf
+State for model sender1 is packetNum: 5 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 8 & transmitting: 4 1 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 16 & transmittingToReceiver: 4 1 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 5 & transmitting: 5 0
+State for model subnetA2 is index: 4 & transmitting: 0 1
+State for model subnetB1 is index: 4 & transmitting: 0 1
+State for model subnetB2 is index: 4 & transmitting: 4 1
+00:41:11:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: inf
+State for model sender1 is packetNum: 5 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 9 & transmitting: 5 0 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 16 & transmittingToReceiver: 4 1 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 5 & transmitting: 5 0
+State for model subnetA2 is index: 4 & transmitting: 0 1
+State for model subnetB1 is index: 4 & transmitting: 0 1
+State for model subnetB2 is index: 4 & transmitting: 4 1
+00:41:14:000
+State for model input_reader is next time: inf
+State for model input_reader1 is next time: inf
+State for model sender1 is packetNum: 5 & totalPacketNum: 5
+State for model receiver1 is ackNum: 1
+State for model FileServerReceiver1 is  index: 9 & transmitting: 5 0 & ackToSender: 0 1
+State for model FileServerSender1 is  index: 17 & transmittingToReceiver: 4 1 & ackFromReceiver: 0 1 & requestIn: 0
+State for model subnetA1 is index: 5 & transmitting: 5 0
+State for model subnetA2 is index: 4 & transmitting: 0 1
+State for model subnetB1 is index: 4 & transmitting: 0 1
+State for model subnetB2 is index: 4 & transmitting: 4 1
