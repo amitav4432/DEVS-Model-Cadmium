@@ -1,0 +1,11 @@
+00:00:10 setTemperature
+00:00:20 70
+00:00:30 setTemperature
+00:00:40 70
+00:00:50 setTemperature
+00:01:00 90
+00:01:10 setTemperature
+00:01:20 150
+00:01:30 setTemperature
+00:01:40 50
+

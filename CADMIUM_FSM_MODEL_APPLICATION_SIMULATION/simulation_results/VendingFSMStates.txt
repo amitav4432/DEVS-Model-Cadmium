@@ -1,0 +1,240 @@
+00:00:00:000
+State for model input_reader is next time: 00:00:00:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: active
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:00:00:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: active
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:00:03:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: active
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:00:10:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:00:13:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: active
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:00:16:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: active
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:00:20:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:00:23:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: active
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:00:26:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: active
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:00:30:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:00:33:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: active
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:00:36:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: active
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:00:40:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:00:43:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: active
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:00:46:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: active
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:00:50:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:00:53:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: active
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:00:56:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: active
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:01:00:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:01:03:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: active
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:01:06:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: active
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:01:10:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:01:13:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: active
+00:01:16:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: active
+00:01:20:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:01:23:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: active
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:01:26:000
+State for model input_reader is next time: 00:00:10:000
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg:  & Phase: active
+State for model one is  State: one & Output: LoonieInserted & errorMsg:  & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg:  & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg:  & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg:  & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg:  & Phase: inactive
+00:01:30:000
+State for model input_reader is next time: inf
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg: Try Again... & Phase: inactive
+State for model one is  State: one & Output: LoonieInserted & errorMsg: Try Again... & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg: Try Again... & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg: Try Again... & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg: Try Again... & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg: Try Again... & Phase: inactive
+00:01:33:000
+State for model input_reader is next time: inf
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg: Try Again... & Phase: active
+State for model one is  State: one & Output: LoonieInserted & errorMsg: Try Again... & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg: Try Again... & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg: Try Again... & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg: Try Again... & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg: Try Again... & Phase: inactive
+00:01:36:000
+State for model input_reader is next time: inf
+State for model zero is  State: zero & Output: InsertLoonieOrToonie & errorMsg: Try Again... & Phase: active
+State for model one is  State: one & Output: LoonieInserted & errorMsg: Try Again... & Phase: inactive
+State for model two is  State: two & Output: TwoDollarsInserted & errorMsg: Try Again... & Phase: inactive
+State for model three is  State: three & Output: SmallDrink & errorMsg: Try Again... & Phase: inactive
+State for model four is  State: four & Output: FourDollarsInserted & errorMsg: Try Again... & Phase: inactive
+State for model five is  State: five & Output: BigDrink & errorMsg: Try Again... & Phase: inactive

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Models>
+	<Model name="VendingFSM" type="coupled" description="a coupled system for accepting external events and perform state transitions for Vending Machine FSM.">
+		<Inputs>
+			<Port name="ExtEventIn" type="string" description="External Event to the FSM"/>	
+		</Inputs>
+		<Outputs>
+			<Port name="OutputZero" type="string" description="Output of Zero state"/>
+			<Port name="OutputOne" type="string" description="Output of One state"/>
+			<Port name="OutputTwo" type="string" description="Output of Two state"/>
+			<Port name="OutputThree" type="string" description="Output of Three state"/>
+			<Port name="OutputFour" type="string" description="Output of Four state"/>
+			<Port name="OutputFive" type="string" description="Output of Five state"/>
+			<Port name="OutputErrorOut" type="string" description="Error Output"/>
+		</Outputs>
+		<Files>	
+			<File name="VendingFSM.cpp" type="CPP" location="../application/"/>
+			<File name="VendingFSM.h" type="H" location="../application/"/>
+		</Files>
+	</Model>
+	<Model name="Zero" type="atomic" description="Instance of Moore atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MooreFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+	<Model name="One" type="atomic" description="Instance of Moore atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MooreFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+	<Model name="Two" type="atomic" description="Instance of Moore atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MooreFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+	<Model name="Three" type="atomic" description="Instance of Moore atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MooreFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+	<Model name="Four" type="atomic" description="Instance of Moore atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MooreFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+	<Model name="Five" type="atomic" description="Instance of Moore atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MooreFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+</Models>

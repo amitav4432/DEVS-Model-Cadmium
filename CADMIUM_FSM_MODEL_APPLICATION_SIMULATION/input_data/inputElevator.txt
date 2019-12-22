@@ -1,0 +1,8 @@
+00:00:10 GoUp
+00:00:20 GoToTop
+00:00:40 GoDown
+00:00:50 GoToBottom
+00:01:00 GoUp
+00:01:10 Halt
+00:01:20 Error
+

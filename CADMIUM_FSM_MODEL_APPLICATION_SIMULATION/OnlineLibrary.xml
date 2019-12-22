@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Models>
+	<Model name="OnlineLibrary" type="coupled" description="a coupled system for accepting external events and perform state transitions for OnlineLibrary FSM.">
+		<Inputs>
+			<Port name="ExtEventIn" type="string" description="External Event to the FSM"/>	
+		</Inputs>
+		<Outputs>
+			<Port name="OutputEnterOnlineLibrary" type="string" description="Output of EnterOnlineLibrary state"/>
+			<Port name="OutputSearching" type="string" description="Output of Searching state"/>
+			<Port name="OutputLogin" type="string" description="Output of Login state"/>
+			<Port name="OutputDownload" type="string" description="Output of Download state"/>
+			<Port name="OutputLibraryAddr" type="string" description="Output of LibraryAddr state"/>
+			<Port name="OutputErrorOut" type="string" description="Error Output"/>
+		</Outputs>
+		<Files>	
+			<File name="OnlineLibrary.cpp" type="CPP" location="../application/"/>
+			<File name="OnlineLibrary.h" type="H" location="../application/"/>
+		</Files>
+	</Model>
+	<Model name="EnterOnlineLibrary" type="atomic" description="Instance of Mealy atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MealyFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+	<Model name="Searching" type="atomic" description="Instance of Mealy atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MealyFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+	<Model name="Login" type="atomic" description="Instance of Mealy atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MealyFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+	<Model name="Download" type="atomic" description="Instance of Mealy atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MealyFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+	<Model name="LibraryAddr" type="atomic" description="Instance of Mealy atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MealyFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+</Models>

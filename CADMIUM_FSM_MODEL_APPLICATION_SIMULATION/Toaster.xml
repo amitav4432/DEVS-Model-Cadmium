@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Models>
+	<Model name="Toaster" type="coupled" description="a coupled system for accepting external events and perform state transitions for Toaster FSM.">
+		<Inputs>
+			<Port name="ExtEventIn" type="string" description="External Event to the FSM"/>	
+		</Inputs>
+		<Outputs>
+			<Port name="OutputIdle" type="string" description="Output of Idle state"/>
+			<Port name="OutputSetRegulator" type="string" description="Output of SetRegulator state"/>
+			<Port name="OutputToasting" type="string" description="Output of Toasting state"/>
+			<Port name="OutputThermostatOff" type="string" description="Output of ThermostatOff state"/>
+			<Port name="OutputErrorOut" type="string" description="Error Output"/>
+		</Outputs>
+		<Files>	
+			<File name="Toaster.cpp" type="CPP" location="../application/"/>
+			<File name="Toaster.h" type="H" location="../application/"/>
+		</Files>
+	</Model>
+	<Model name="Idle" type="atomic" description="Instance of Mealy atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MealyFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+	<Model name="SetRegulator" type="atomic" description="Instance of Mealy atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MealyFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+	<Model name="Toasting" type="atomic" description="Instance of Mealy atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MealyFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+	<Model name="ThermostatOff" type="atomic" description="Instance of Mealy atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MealyFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+</Models>

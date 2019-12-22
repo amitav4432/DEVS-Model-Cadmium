@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Models>
+	<Model name="AutoTempControl" type="coupled" description="a coupled system for accepting external events and perform state transitions for Automatic Temperature Control FSM.">
+		<Inputs>
+			<Port name="ExtEventIn" type="string" description="External Event to the FSM"/>	
+		</Inputs>
+		<Outputs>
+			<Port name="OutputTempSet" type="string" description="Output of TempSet state"/>
+			<Port name="OutputTempSense" type="string" description="Output of TempSense state"/>
+			<Port name="OutputAirCondOn" type="string" description="Output of AirCondOn state"/>
+			<Port name="OutputHeaterOn" type="string" description="Output of HeaterOn state"/>
+			<Port name="OutputCODetectOk" type="string" description="Output of CODetectOk state"/>
+			<Port name="OutputCODetectAlarm" type="string" description="Output of CODetectAlarm state"/>
+			<Port name="OutputErrorOut" type="string" description="Error Output"/>
+		</Outputs>
+		<Files>	
+			<File name="AutoTempControl.cpp" type="CPP" location="../application/"/>
+			<File name="AutoTempControl.h" type="H" location="../application/"/>
+		</Files>
+	</Model>
+	<Model name="TempSet" type="atomic" description="Instance of Moore atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MooreFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+	<Model name="TempSense" type="atomic" description="Instance of Moore atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MooreFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+	<Model name="AirCondOn" type="atomic" description="Instance of Moore atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MooreFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+	<Model name="HeaterOn" type="atomic" description="Instance of Moore atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MooreFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+	<Model name="CODetectOk" type="atomic" description="Instance of Moore atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MooreFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+	<Model name="CODetectAlarm" type="atomic" description="Instance of Moore atomic model to accept event and transition in and give output, transition out and error.">
+		<Inputs>
+			<Port name="EventIn" type="string" description="External Event to the state"/>
+			<Port name="TransitionIn" type="string" description="TransitionIn coming from other states to the present state"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output" type="string" description="to give output of the state"/>
+			<Port name="transition out" type="string" description="to give out the next active state in the FSM"/>
+			<Port name="error out" type="string" description="to give any error in the state"/>
+		</Outputs>
+		<Files>
+			<File name="MooreFSM.HPP" type="HPP" location="../atomics"/>
+		</Files>
+	</Model>
+</Models>

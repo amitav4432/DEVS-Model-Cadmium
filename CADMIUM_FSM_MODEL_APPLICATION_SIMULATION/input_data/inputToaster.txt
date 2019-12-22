@@ -1,0 +1,8 @@
+00:00:10 On
+00:00:20 Regulator1
+00:00:40 TimerOut
+00:00:50 SwitchOff
+00:01:00 On
+00:01:10 Regulator2
+00:01:20 TimerOut
+00:01:30 Regulator4
