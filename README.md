@@ -14,20 +14,20 @@ This folder contains the application model for Finite State Machine implemented 
 
 	makefile
 
-	atomics [This folder contains atomic models implemented in Cadmium]
+### atomics [This folder contains atomic models implemented in Cadmium]
 		MooreFSM.hpp 
 		MealyFSM
 
-	bin [This folder will be created automatically the first time you compile the poject.
+### bin [This folder will be created automatically the first time you compile the poject.
      	It will contain all the executables]
 
-	build [This folder will be created automatically the first time you compile the poject.
+### build [This folder will be created automatically the first time you compile the poject.
        	It will contain all the build files (.o) generated during compilation]
 
-	scripts [This folder contains the script to run all the tests and simulations]
+### scripts [This folder contains the script to run all the tests and simulations]
 	script.sh
 
-	input_data [This folder contains all the input data to run the model and the tests]
+### input_data [This folder contains all the input data to run the model and the tests]
 	MealyFSM_EventIn.txt (Contains Events to test the Mealy Atomic Model)
 	MealyFSM_TransitionIn.txt (Contains Incoming Transitions to test transitions for Mealy Atomic Model)
 	MooreFSM_EventIn.txt (Contains Events to test the Moore Atomic Model)
@@ -39,9 +39,7 @@ This folder contains the application model for Finite State Machine implemented 
 	inputToaster.txt (input values to simulate state transitions for Toaster Machine)
 	inputVendingMC.txt (input values to simulate state transitions for Vending Machine) 
 	
-	simulation_results [It will store the outputs from simulations and tests. Output logs of all the test scenarios are present here]
-
-
+### simulation_results [It will store the outputs from simulations and tests. Output logs of all the test scenarios are present here]
 	ElevatorMsg.txt -------------------------------> Messages Output of Elevator Application 
 	ElevatorStates.txt ----------------------------> State Output of Elevator Application 
 	ToasterMsg.txt --------------------------------> Messages Output of Toaster Application
@@ -59,11 +57,11 @@ This folder contains the application model for Finite State Machine implemented 
 	MooreFSM_test_output_messages.txt -------------> Messages Output of Moore Atomic Model
 	MooreFSM_test_output_state.txt ----------------> State Output of Moore Atomic Model
 
-	test [This folder the unit test of the atomic models]
-		Moore_FSM_test.cpp
-		Mealy_FSM_test.cpp
+### test [This folder the unit test of the atomic models]
+	Moore_FSM_test.cpp
+	Mealy_FSM_test.cpp
 
-	application [This folder contains the Moore/Mealy applications and Header files used by each application]	
+### application [This folder contains the Moore/Mealy applications and Header files used by each application]	
 	VendingFSM.cpp      (Moore) -->Contains the Coupled Model Construction
 	VendingFSM.h		    -->Contains the implementations of event and transition callbacks
 	AutoTempControl.cpp (Moore) -->Contains the Coupled Model Construction
