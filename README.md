@@ -95,5 +95,7 @@ This folder contains the application model for Finite State Machine implemented 
 	      2.4 - chmod 777 script.sh
 	      2.5 - ./script.sh
 		
-	3 - To check the output of the tests and simulations, go to the folder simulation_results and open the output files for all the test cases run. For example, for Elevator Application, "ElevatorMsg.txt" and "ElevatorStates.txt" would be generated. These files need to be renamed if results are required to persist because they will be overwritten on every subsequent test run.
+	3 - To check the output of the tests and simulations, go to the folder simulation_results and open the output files for all the test cases run.
+	For example, for Elevator Application, "ElevatorMsg.txt" and "ElevatorStates.txt" would be generated. 
+	These files need to be renamed if results are required to persist because they will be overwritten on every subsequent test run.
 
