@@ -1,7 +1,7 @@
 # DEVS-Model-Cadmium
 This folder contains the application model for Finite State Machine implemented in Cadmium
 
-##FILES ORGANIZATION
+## FILES ORGANIZATION
 	
 FSM_Implementation_Cadmium.pdf
 AutoTempControl.xml
@@ -76,7 +76,7 @@ application [This folder contains the Moore/Mealy applications and Header files 
 	Toaster.cpp         (Mealy) -->Contains the Coupled Model Construction
 	Toaster.h
 	
-##STEPS FOR COMPILATION AND EXECUTION OF THE PROGRAMS
+## STEPS FOR COMPILATION AND EXECUTION OF THE PROGRAMS
 
 0 - OfflineFileTransferSimulation.doc contains the explanation of this model
 
