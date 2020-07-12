@@ -88,7 +88,7 @@
 	1 - Update include path in the makefile in this folder and subfolders. following lines need to be updated:
 	INCLUDECADMIUM=-I ../../cadmium/include
 	INCLUDEDESTIMES=-I ../../DESTimes/include
-    	Update the relative path to cadmium/include from the folder where the makefile is. You need to take into account where you copied the folder during the 	installation process
+    	Update the relative path to cadmium/include from the folder where the makefile is. You need to take into account where you copied the folder during the installation process
 		Example: INCLUDECADMIUM=-I ../../cadmium/include
 		Do the same for the DESTimes library
    
