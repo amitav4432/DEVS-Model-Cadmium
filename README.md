@@ -27,16 +27,16 @@ scripts [This folder contains the script to run all the tests and simulations]
 	script.sh
 
 input_data [This folder contains all the input data to run the model and the tests]
-	MealyFSM_EventIn.txt --------------------------> Contains Events to test the Mealy Atomic Model
-	MealyFSM_TransitionIn.txt ---------------------> Contains Incoming Transitions to test transitions for Mealy Atomic Model
-	MooreFSM_EventIn.txt --------------------------> Contains Events to test the Moore Atomic Model 
-	MooreFSM_TransitionIn.txt ---------------------> Contains Incoming Transitions to test transitions for Moore Atomic Model
-	inputElevator.txt -----------------------------> input values to simulate state transitions for Elevator
-	inputOnlineLibrary.txt ------------------------> input values to simulate state transitions for Online Library System
-	inputOnlinePayment.txt ------------------------> input values to simulate state transitions for Online Payment System
-	inputAutoTempControl.txt-----------------------> input values to simulate state transitions for Automatic Temperature Controller
-	inputToaster.txt-------------------------------> input values to simulate state transitions for Toaster Machine
-	inputVendingMC.txt-----------------------------> input values to simulate state transitions for Vending Machine 
+	MealyFSM_EventIn.txt (Contains Events to test the Mealy Atomic Model)
+	MealyFSM_TransitionIn.txt (Contains Incoming Transitions to test transitions for Mealy Atomic Model)
+	MooreFSM_EventIn.txt (Contains Events to test the Moore Atomic Model)
+	MooreFSM_TransitionIn.txt (Contains Incoming Transitions to test transitions for Moore Atomic Model)
+	inputElevator.txt (input values to simulate state transitions for Elevator)
+	inputOnlineLibrary.txt (input values to simulate state transitions for Online Library System)
+	inputOnlinePayment.txt (input values to simulate state transitions for Online Payment System)
+	inputAutoTempControl.txt (input values to simulate state transitions for Automatic Temperature Controller)
+	inputToaster.txt (input values to simulate state transitions for Toaster Machine)
+	inputVendingMC.txt (input values to simulate state transitions for Vending Machine) 
 	
 simulation_results [It will store the outputs from simulations and tests. Output logs of all the test scenarios are present here]
 
