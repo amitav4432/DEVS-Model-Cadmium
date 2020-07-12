@@ -1,5 +1,11 @@
 # DEVS-Model-Cadmium
-This folder contains the application model for Finite State Machine implemented in Cadmium
+	
+	This project builds a model library for implementing Finite State Machine simulation using Cadmium Tool. 
+	Details of the implementation can be found in the following publication:
+	A model library for finite state machines in Cadmium
+	publication date May 21, 2020 publication description ACM Digital Library: SpringSim '20: 
+	Proceedings of the 2020 Spring Simulation Conference May 2020 Article No.: 66 Pages 1–12 
+	https://dl.acm.org/doi/abs/10.5555/3408207.3408285
 
 ## FILES ORGANIZATION
 	
