@@ -15,14 +15,14 @@ This folder contains the application model for Finite State Machine implemented 
 	makefile
 
 ### atomics [This folder contains atomic models implemented in Cadmium]
-		MooreFSM.hpp 
-		MealyFSM
+	MooreFSM.hpp 
+	MealyFSM
 
 ### bin [This folder will be created automatically the first time you compile the poject.
-     	It will contain all the executables]
+	It will contain all the executables]
 
 ### build [This folder will be created automatically the first time you compile the poject.
-       	It will contain all the build files (.o) generated during compilation]
+	It will contain all the build files (.o) generated during compilation]
 
 ### scripts [This folder contains the script to run all the tests and simulations]
 	script.sh
